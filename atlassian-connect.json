@@ -2,7 +2,7 @@
      "name": "Hello World",
      "description": "Atlassian Connect app",
      "key": "com.example.myapp",
-     "baseUrl": "https://raw.githubusercontent.com",
+     "baseUrl": "http://cantabrana.no-ip.org",
      "vendor": {
          "name": "Example, Inc.",
          "url": "http://example.com"
@@ -14,7 +14,7 @@
      "modules": {
          "generalPages": [
              {
-                 "url": "/rcgcoder/jiraplugin/master/helloworld.html",
+                 "url": "/jiraplugin/helloworld.html",
                  "key": "hello-world",
                  "location": "system.top.navigation.bar",
                  "name": {
